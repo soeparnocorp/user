@@ -63,7 +63,7 @@ export default function () {
 						type="text"
 						name="text"
 						className="flex-1 rounded-lg border-gray-300 dark:border-gray-700 dark:bg-gray-800 dark:text-white shadow-sm px-4 py-2"
-						placeholder="Add username..."
+						placeholder="username..."
 					/>
 					<button
 						type="submit"
@@ -71,7 +71,7 @@ export default function () {
 						value="create"
 						className="bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-600 transition"
 					>
-						Add
+						Save
 					</button>
 				</Form>
 
