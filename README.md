@@ -23,8 +23,6 @@ Outside of this repo, you can start a new project with this template using [C3](
 npm create cloudflare@latest -- --template=cloudflare/templates/to-do-list-kv-template
 ```
 
-A live public deployment of this template is available at [https://to-do-list-kv-template.templates.workers.dev](https://to-do-list-kv-template.templates.workers.dev)
-
 ## Setup Steps
 
 1. Install the project dependencies with a package manager of your choice:
